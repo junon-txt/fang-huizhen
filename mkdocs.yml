@@ -3,8 +3,8 @@ site_name: ""
 docs_dir: pages
 
 nav:
-  - index.md
-  - 00 robin.md
+  - 索引: index.md
+  - 2025年1月: 00 robin.md
 
 theme:
   name: material
