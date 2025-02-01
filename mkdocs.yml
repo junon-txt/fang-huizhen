@@ -30,4 +30,9 @@ extra:
   generator: false
 
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
