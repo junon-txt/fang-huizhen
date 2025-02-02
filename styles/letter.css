@@ -54,6 +54,13 @@ a:hover {
     margin-bottom: 1em;
 }
 
+p {
+    color: #757575;
+    font-family: "Noto Sans", sans-serif;
+    margin-top: 0em;
+    margin-bottom: 1em;
+}
+
 .md-typeset details {
     box-shadow: none;
     border-radius: 15px !important;
