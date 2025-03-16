@@ -88,3 +88,16 @@ p {
 .md-typeset details ::after{
     display: none !important;
 }
+
+.float-right-mobile-off {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+@media (max-width: 76.25rem) {
+    .float-right-mobile-off {
+        float: none;
+        margin: 1em auto;
+        display: block;
+    }
+}
