@@ -94,8 +94,18 @@ p {
     margin: 0 0 1em 1em;
 }
 
+.float-left-mobile-off {
+    float: left;
+    margin: 0 0 1em 1em;
+}
+
 @media (max-width: 76.25rem) {
     .float-right-mobile-off {
+        float: none;
+        margin: 1em auto;
+        display: block;
+    }
+    .float-left-mobile-off {
         float: none;
         margin: 1em auto;
         display: block;
